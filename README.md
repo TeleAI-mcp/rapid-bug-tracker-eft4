@@ -1,2 +1,3 @@
-# rapid-bug-tracker-eft4
+# Rapid Bug Tracker Eft4
+
 A repository to test GitHub automation for issue management.
